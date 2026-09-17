@@ -1,0 +1,34 @@
+import LeanProblems
+
+#print axioms JSP.Problem000433.extremal_admissible
+#print axioms JSP.Problem000433.extremal_sum
+#print axioms JSP.Problem000433.sharp_lower_bound
+#print axioms JSP.Problem000433.sum_div_le
+#print axioms JSP.Problem000433.reciprocalSum_lt_two
+#print axioms JSP.Problem000433.sharp_bound_of_card_le_three
+#print axioms JSP.Problem000433.sharp_bound_of_le_five
+#print axioms JSP.Problem000433.reciprocalSum_le_harmonicCertificate
+#print axioms JSP.Problem000433.sharpBound_of_harmonicCertificate
+#print axioms JSP.Problem000433.coverage_through_fifty_eight
+#print axioms JSP.Problem000433.finiteBoundVerifier_sound
+#print axioms JSP.Problem000433.sharp_bound_at_small_exceptions
+#print axioms JSP.Problem000433.certificate_through_365
+#print axioms JSP.Problem000433.sharp_bound_through_365
+#print axioms JSP.Problem000433.harmonic_log_error
+#print axioms JSP.Problem000433.sharp_bound_endpoint61
+#print axioms JSP.Problem000433.sharp_bound_endpoint62
+#print axioms JSP.Problem000433.coefficient_grouped
+#print axioms JSP.Problem000433.coefficientLimit_bounds
+#print axioms JSP.Problem000433.harmonic_floor_log_error
+#print axioms JSP.Problem000433.harmonic_block_log_error
+#print axioms JSP.Problem000433.coefficient_global_error
+#print axioms JSP.Problem000433.coefficient_bounds_large
+#print axioms JSP.Problem000433.integerCertificate_bounds
+#print axioms JSP.Problem000433.certificate_of_integer
+#print axioms JSP.Problem000433.coefficient_bounds_middle
+#print axioms JSP.Problem000433.coefficient_lower
+#print axioms JSP.Problem000433.coefficient_upper
+#print axioms JSP.Problem000433.sharp_bound_at_exceptions
+#print axioms JSP.Problem000433.jsp_000433
+#print axioms JSP.Problem000433.jsp_000433_real
+#print axioms JSP.Problem000433.optimal_constant
