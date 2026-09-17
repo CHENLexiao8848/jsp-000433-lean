@@ -1,0 +1,2 @@
+# Preserve the exact bytes recorded by the verification manifest on all platforms.
+* -text whitespace=blank-at-eol,space-before-tab,cr-at-eol
